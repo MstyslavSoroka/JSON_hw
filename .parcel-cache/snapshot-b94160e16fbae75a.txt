@@ -1,0 +1,17 @@
+16
+56C:\Users\Mstys\Desktop\my_projects\JSON_hw\src\style.css133785907313021636 0
+46C:\Users\Mstys\Desktop\my_projects\JSON_hw\src133785913336806944 1
+47C:\Users\Mstys\Desktop\my_projects\JSON_hw\dist133785908421356769 1
+53C:\Users\Mstys\Desktop\my_projects\JSON_hw\index.html133785913513445402 0
+55C:\Users\Mstys\Desktop\my_projects\JSON_hw\package.json133785913400664029 0
+54C:\Users\Mstys\Desktop\my_projects\JSON_hw\src\main.js133785908415710887 0
+66C:\Users\Mstys\Desktop\my_projects\JSON_hw\dist\index.2cdaf7bc.css133785908419790452 0
+58C:\Users\Mstys\Desktop\my_projects\JSON_hw\dist\index.html133785908418747475 0
+70C:\Users\Mstys\Desktop\my_projects\JSON_hw\dist\index.2cdaf7bc.css.map133785908420134560 0
+79C:\Users\Mstys\Desktop\my_projects\JSON_hw\dist\index.2cdaf7bc.css.map.10100.1f133785879106900564 0
+65C:\Users\Mstys\Desktop\my_projects\JSON_hw\dist\index.de158e3a.js133785908419740252 0
+69C:\Users\Mstys\Desktop\my_projects\JSON_hw\dist\index.de158e3a.js.map133785908420094669 0
+78C:\Users\Mstys\Desktop\my_projects\JSON_hw\dist\index.de158e3a.js.map.10100.1g133785879106870713 0
+67C:\Users\Mstys\Desktop\my_projects\JSON_hw\dist\JSON_hw.59712999.js133785908419740252 0
+71C:\Users\Mstys\Desktop\my_projects\JSON_hw\dist\JSON_hw.59712999.js.map133785908420114639 0
+80C:\Users\Mstys\Desktop\my_projects\JSON_hw\dist\JSON_hw.59712999.js.map.10100.1e133785879106900564 0
